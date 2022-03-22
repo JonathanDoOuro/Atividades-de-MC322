@@ -2,7 +2,7 @@
 
 ## Notebook 1 sobre Empréstimos
 
-> Coloque um link para o arquivo do notebook com a resolução da primeira tarefa. Ele estará dentro da pasta `notebook`.
+[notebook](notebook/emprestimo01 (6).ipynb)
 
 ## Notebook 2 sobre Empréstimos e TAD (opcional)
 
