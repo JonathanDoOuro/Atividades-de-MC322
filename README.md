@@ -1,2 +1,5 @@
-# Atividades-de-MC322
-Repositório para as atividades de MC322.
+# Aluno
+ * Jonathan do Ouro
+ * RA: 248364
+# Curso
+  * Ciência da computação
