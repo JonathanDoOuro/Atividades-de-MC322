@@ -2,4 +2,4 @@
 
 ## Notebook 1 sobre estruturas java
 
-[notebook]()
+[notebook](Atividades-de-MC322/lab02/notebook/lab02-java-estruturas-ra248364.ipynb)
